@@ -1,0 +1,12 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: #1E1E1E;
+}
+
+.realTimeDisplay{
+    background: url('./');
+}
