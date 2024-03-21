@@ -73,3 +73,10 @@ npm install react-hot-toast
 ```bash
 npm run dev
 ```
+
+# About the App
+
+- This app shows the realtime weather and forecast weather.
+- The user can search for the place whose weather he want to know by clicking on the Change Location button which makes the search bar pop up. After the the search bar appear in the top of the weather card the user can write the name of the location and click on the search icon.
+- If the Api is not able to fetch the data it will show the error on the top of the site.
+- 
